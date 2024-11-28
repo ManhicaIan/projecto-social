@@ -51,7 +51,7 @@ main{
 .navbar > li > a{
   text-decoration: none;
   padding: 15px 24px;
-  border-radius: 100px;
+  border-radius: 50%;
   box-shadow: 3px 1px 10px black;
 }
 
